@@ -413,9 +413,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |+
-      I’d love to hear from you. Kindly feel free to reach out!
-
+    text: >
+      I’d love to hear from you. Kindly feel free to reach out through
+      ayeotanofficial\@gmail.com 
     media:
       fields:
         - name: name
