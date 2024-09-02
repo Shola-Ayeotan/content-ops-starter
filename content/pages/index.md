@@ -78,22 +78,6 @@ sections:
           - pr-3
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
-      - url: /images/1 (2).png
-        altText: Looker logo
-        type: ImageBlock
-      - url: /images/Untitled design (1).png
-        altText: Tensorflow logo
-        type: ImageBlock
-      - url: /images/1 (3).png
-        altText: Azure logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/2 (3).png
-        altText: GCP  alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
       - url: /images/5.png
         altText: Python  logo
         type: ImageBlock
@@ -106,6 +90,19 @@ sections:
       - url: /images/1.png
         altText: PowerBI logo
         type: ImageBlock
+      - url: /images/1 (2).png
+        altText: Looker logo
+        type: ImageBlock
+      - url: /images/Untitled design (1).png
+        altText: Tensorflow logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/3 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - type: ImageBlock
         url: /images/5 (2).png
         altText: SKLearn alt text placeholder
@@ -113,9 +110,12 @@ sections:
         styles:
           self:
             borderRadius: medium
+      - url: /images/1 (3).png
+        altText: Azure logo
+        type: ImageBlock
       - type: ImageBlock
-        url: /images/3 (3).png
-        altText: Image alt text placeholder
+        url: /images/2 (3).png
+        altText: GCP  alt text placeholder
         elementId: ''
         styles:
           self:
