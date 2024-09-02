@@ -158,6 +158,16 @@ sections:
         style: primary
         elementId: ''
     subtitle: Here’s a showcase of some of my published projects.
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - type: GenericSection
     subtitle: ABOUT ME
     text: >
@@ -206,16 +216,6 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
