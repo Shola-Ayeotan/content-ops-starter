@@ -7,7 +7,7 @@ sections:
       text: Welcome to my portfolio!
       color: text-dark
       type: TitleBlock
-    subtitle: Data nerd. Learning. Creativity.
+    subtitle: ''
     text: >
       I’m a data scientist with a passion for solving problems through data. My
       work focuses on analyzing patterns, building predictive models, and
