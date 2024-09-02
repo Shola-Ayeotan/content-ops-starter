@@ -167,7 +167,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: ''
+    subtitle: ABOUT ME
     text: >
       With an MSc in Data Science from the University of Salford and an MBA in
       Business Intelligence, I specialize in transforming complex data into
