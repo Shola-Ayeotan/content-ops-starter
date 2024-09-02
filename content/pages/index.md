@@ -14,15 +14,6 @@ sections:
       and delivering actionable insights that help businesses and organizations
       make informed decisions.
     actions:
-      - label: Projects
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: ''
         altText: ''
         url: /www.linkedin.com/in/oluwanishola/
