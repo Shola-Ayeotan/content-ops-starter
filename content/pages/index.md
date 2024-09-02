@@ -100,7 +100,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pr-28
+          - pr-20
           - pl-28
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
