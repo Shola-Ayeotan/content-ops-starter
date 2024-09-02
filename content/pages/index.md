@@ -185,7 +185,7 @@ sections:
       - url: /images/Powerbi.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/sql.png
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg
