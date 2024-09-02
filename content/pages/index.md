@@ -65,10 +65,6 @@ sections:
           - pr-1
         margin:
           - mr-0
-    badge:
-      type: Badge
-      label: Data nerd. Learning. Creativity.
-      color: text-primary
   - type: GenericSection
     title:
       text: Welcome to my portfolio!
