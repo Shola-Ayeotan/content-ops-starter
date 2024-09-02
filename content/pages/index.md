@@ -176,7 +176,16 @@ sections:
       problems and adding tangible business value. I thrive on challenges that
       require innovative thinking, and I’m committed to continuous learning and
       staying ahead in this fast-evolving field.
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /About
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: VideoBlock
       title: Title of the video
