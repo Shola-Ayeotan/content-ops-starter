@@ -191,6 +191,13 @@ sections:
       - url: /images/1 (3).png
         altText: Vise logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/5.png
         altText: Telus logo
         type: ImageBlock
