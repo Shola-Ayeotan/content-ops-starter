@@ -79,7 +79,15 @@ sections:
       work focuses on analyzing patterns, building predictive models, and
       delivering actionable insights that help businesses and organizations make
       informed decisions.
-    actions: []
+    actions:
+      - type: Link
+        altText: LinkedIn
+        url: /
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
