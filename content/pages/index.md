@@ -88,7 +88,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Bio.png
+      url: /images/Untitled design.png
       altText: Dope design preview
     badge:
       type: Badge
