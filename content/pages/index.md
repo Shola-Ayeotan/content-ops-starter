@@ -81,7 +81,7 @@ sections:
       - url: /images/1 (2).png
         altText: Looker logo
         type: ImageBlock
-      - url: /images/2 (2).png
+      - url: /images/Untitled design (1).png
         altText: Tensorflow logo
         type: ImageBlock
       - url: /images/1 (3).png
