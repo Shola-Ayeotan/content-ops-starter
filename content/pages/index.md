@@ -47,6 +47,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/1 (4).png
       altText: Unblock your team boost your time to production preview
