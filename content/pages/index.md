@@ -208,7 +208,7 @@ sections:
         altText: R logo
         type: ImageBlock
       - url: /images/1.png
-        altText: Rangle logo
+        altText: PowerBI logo
         type: ImageBlock
       - type: ImageBlock
         url: /images/5 (2).png
