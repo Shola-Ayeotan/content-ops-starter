@@ -206,7 +206,7 @@ sections:
             flexDirection: col
     actions:
       - type: Button
-        label: Get started
+        label: See projects
         altText: ''
         url: /See projects
         showIcon: false
