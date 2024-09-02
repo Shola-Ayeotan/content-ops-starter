@@ -160,14 +160,7 @@ sections:
       subtitle:
         fontWeight: 700
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ABOUT ME
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
+    subtitle: ABOUT ME
     text: >
       With an MSc in Data Science from the University of Salford and an MBA in
       Business Intelligence, I specialize in transforming complex data into
@@ -213,6 +206,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+        fontWeight: 700
   - type: GenericSection
     subtitle: ''
     text: >+
