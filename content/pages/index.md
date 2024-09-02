@@ -91,10 +91,6 @@ sections:
       type: ImageBlock
       url: /images/Untitled design.png
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: about me.
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
