@@ -81,18 +81,18 @@ sections:
       informed decisions.
     actions:
       - type: Link
-        altText: LinkedIn
-        url: /
-        showIcon: true
-        icon: linkedin
-        iconPosition: left
-        style: secondary
-        elementId: ''
-      - type: Link
         altText: GitHub
         url: /
         showIcon: true
         icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: /
+        showIcon: true
+        icon: linkedin
         iconPosition: left
         style: secondary
         elementId: ''
