@@ -199,7 +199,7 @@ sections:
           self:
             borderRadius: medium
       - url: /images/5.png
-        altText: Telus logo
+        altText: Python  logo
         type: ImageBlock
       - url: /images/3.png
         altText: Contentful logo
