@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
       url: /images/1 (4).png
