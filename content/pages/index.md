@@ -202,6 +202,8 @@ sections:
           - pl-36
           - pt-11
           - pb-11
+      subtitle:
+        fontWeight: 700
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
