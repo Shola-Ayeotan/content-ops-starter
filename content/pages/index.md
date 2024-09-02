@@ -167,6 +167,8 @@ sections:
           - pb-16
           - pr-8
         justifyContent: center
+        margin:
+          - mr-9
       subtitle:
         textAlign: center
   - type: GenericSection
