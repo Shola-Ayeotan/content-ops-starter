@@ -40,7 +40,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Blog",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
