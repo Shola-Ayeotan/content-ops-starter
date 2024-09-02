@@ -168,11 +168,14 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      With an MSc in Data Science from the University of Salford and an MBA in
+      Business Intelligence, I specialize in transforming complex data into
+      strategic assets. My expertise spans machine learning, predictive
+      modelling, and data visualization, all aimed at solving real-world
+      problems and adding tangible business value. I thrive on challenges that
+      require innovative thinking, and I’m committed to continuous learning and
+      staying ahead in this fast-evolving field.
     actions: []
     media:
       type: VideoBlock
