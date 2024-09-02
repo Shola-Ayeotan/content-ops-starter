@@ -16,7 +16,7 @@ sections:
     actions:
       - label: ''
         altText: Linkedin
-        url: /www.linkedin.com/in/oluwanishola/
+        url: www.linkedin.com/in/oluwanishola/
         showIcon: true
         icon: linkedin
         iconPosition: right
