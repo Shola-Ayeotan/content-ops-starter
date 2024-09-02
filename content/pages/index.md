@@ -64,7 +64,7 @@ sections:
           - pb-16
           - pr-16
   - type: GenericSection
-    subtitle: ''
+    subtitle: ABOUT ME
     text: >
       With an MSc in Data Science and an MBA in business intelligence, I
       specialize in transforming complex data into strategic assets. My
