@@ -188,7 +188,7 @@ sections:
       - url: /images/2 (2).png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/SQL-Server.png
+      - url: /images/microsoft-azure.svg
         altText: Vise logo
         type: ImageBlock
       - url: /images/5.png
