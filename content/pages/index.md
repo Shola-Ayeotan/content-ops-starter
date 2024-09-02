@@ -212,7 +212,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/5 (2).png
-        altText: Image alt text placeholder
+        altText: SKLearn alt text placeholder
         elementId: ''
         styles:
           self:
