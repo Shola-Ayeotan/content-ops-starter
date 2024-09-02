@@ -53,7 +53,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Discover my work",
             "altText": "",
             "url": "/Projects",
             "showIcon": false,
