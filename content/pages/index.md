@@ -7,7 +7,7 @@ sections:
       text: Welcome to my portfolio!
       color: text-dark
       type: TitleBlock
-    subtitle: Data nerd. Learning. Creativity.
+    subtitle: ''
     text: >
       I’m a data scientist with a passion for solving problems through data. My
       work focuses on analyzing patterns, building predictive models, and
@@ -65,6 +65,88 @@ sections:
           - pr-1
         margin:
           - mr-0
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: My Work
+      color: text-dark
+    actions:
+      - type: Button
+        label: Explore More Projects
+        altText: ''
+        url: /Projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    subtitle: Here’s a showcase of some of my published projects.
+  - type: GenericSection
+    subtitle: ABOUT ME
+    text: >
+      With an MSc in Data Science from the University of Salford and an MBA in
+      Business Intelligence, I specialize in transforming complex data into
+      strategic assets. My expertise spans machine learning, predictive
+      modelling, and data visualization, all aimed at solving real-world
+      problems and adding tangible business value. I thrive on challenges that
+      require innovative thinking, and I’m committed to continuous learning and
+      staying ahead in this fast-evolving field.
+    actions:
+      - type: Link
+        label: Learn more about me
+        altText: ''
+        url: /About
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+        fontWeight: 700
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
@@ -124,120 +206,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: GenericSection
-    subtitle: ABOUT ME
-    text: >
-      With an MSc in Data Science from the University of Salford and an MBA in
-      Business Intelligence, I specialize in transforming complex data into
-      strategic assets. My expertise spans machine learning, predictive
-      modelling, and data visualization, all aimed at solving real-world
-      problems and adding tangible business value. I thrive on challenges that
-      require innovative thinking, and I’m committed to continuous learning and
-      staying ahead in this fast-evolving field.
-    actions:
-      - type: Link
-        label: Learn more about me
-        altText: ''
-        url: /About
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    media:
-      type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-        fontWeight: 700
-  - type: GenericSection
-    subtitle: ''
-    text: >+
-      With an MSc in Data Science from the University of Salford and an MBA in
-      Business Intelligence, I am proficient at transforming complex data into
-      strategic assets. My expertise spans machine learning, predictive
-      modelling, and data visualization, all aimed at solving real-world
-      problems and adding tangible business value. I thrive on challenges that
-      require innovative thinking, and I’m committed to continuous learning and
-      staying ahead in this fast-evolving field.
-
-    actions:
-      - type: Link
-        label: Learn more about me
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/4 (4).png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ABOUT ME
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: My Work
-      color: text-dark
-    actions:
-      - type: Button
-        label: Explore More Projects
-        altText: ''
-        url: /Projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    subtitle: Here’s a showcase of some of my published projects.
   - title: Divider
     colors: bg-light-fg-dark
     styles:
