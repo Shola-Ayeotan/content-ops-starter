@@ -202,7 +202,7 @@ sections:
         altText: Python  logo
         type: ImageBlock
       - url: /images/3.png
-        altText: Contentful logo
+        altText: SWL logo
         type: ImageBlock
       - url: /images/4 (2).png
         altText: Sanity logo
