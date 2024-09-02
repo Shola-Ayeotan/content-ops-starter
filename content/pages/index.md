@@ -189,7 +189,7 @@ sections:
         altText: Tensorflow logo
         type: ImageBlock
       - url: /images/1 (3).png
-        altText: Vise logo
+        altText: Azure logo
         type: ImageBlock
       - type: ImageBlock
         url: /images/2 (3).png
