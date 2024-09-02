@@ -63,6 +63,65 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - subtitle: Skills and proficiencies
+    images:
+      - url: /images/1 (2).png
+        altText: Looker logo
+        type: ImageBlock
+      - url: /images/2 (2).png
+        altText: Tensorflow logo
+        type: ImageBlock
+      - url: /images/1 (3).png
+        altText: Azure logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/2 (3).png
+        altText: GCP  alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/5.png
+        altText: Python  logo
+        type: ImageBlock
+      - url: /images/3.png
+        altText: SQL logo
+        type: ImageBlock
+      - url: /images/4 (2).png
+        altText: R logo
+        type: ImageBlock
+      - url: /images/1.png
+        altText: PowerBI logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/5 (2).png
+        altText: SKLearn alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/3 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/4 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -180,65 +239,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Skills and proficiencies
-    images:
-      - url: /images/1 (2).png
-        altText: Looker logo
-        type: ImageBlock
-      - url: /images/2 (2).png
-        altText: Tensorflow logo
-        type: ImageBlock
-      - url: /images/1 (3).png
-        altText: Azure logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/2 (3).png
-        altText: GCP  alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/5.png
-        altText: Python  logo
-        type: ImageBlock
-      - url: /images/3.png
-        altText: SQL logo
-        type: ImageBlock
-      - url: /images/4 (2).png
-        altText: R logo
-        type: ImageBlock
-      - url: /images/1.png
-        altText: PowerBI logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/5 (2).png
-        altText: SKLearn alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/3 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/4 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
