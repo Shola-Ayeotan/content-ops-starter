@@ -187,7 +187,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
     media:
       type: ImageBlock
       url: /images/4 (4).png
