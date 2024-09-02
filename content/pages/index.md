@@ -63,6 +63,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mr-11
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
