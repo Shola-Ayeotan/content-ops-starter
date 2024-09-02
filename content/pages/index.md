@@ -109,6 +109,7 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 400
+        fontStyle: italic
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
