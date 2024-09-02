@@ -219,9 +219,15 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      With an MSc in Data Science from the University of Salford and an MBA in
+      Business Intelligence, I am proficient at transforming complex data into
+      strategic assets. My expertise spans machine learning, predictive
+      modelling, and data visualization, all aimed at solving real-world
+      problems and adding tangible business value. I thrive on challenges that
+      require innovative thinking, and I’m committed to continuous learning and
+      staying ahead in this fast-evolving field.
+
     actions:
       - type: Button
         label: Get started
