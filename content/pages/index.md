@@ -73,7 +73,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Data nerd. Learning. Creativity.
     text: >
       I’m a data scientist with a passion for solving problems through data. My
       work focuses on analyzing patterns, building predictive models, and
