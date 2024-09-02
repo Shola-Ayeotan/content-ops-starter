@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: ''
         altText: ''
-        url: /
+        url: /www.linkedin.com/in/oluwanishola/
         showIcon: true
         icon: linkedin
         iconPosition: right
