@@ -178,7 +178,7 @@ sections:
       staying ahead in this fast-evolving field.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Learn more about me
         altText: ''
         url: /About
         showIcon: true
