@@ -205,7 +205,7 @@ sections:
         altText: SQL logo
         type: ImageBlock
       - url: /images/4 (2).png
-        altText: Sanity logo
+        altText: R logo
         type: ImageBlock
       - url: /images/1.png
         altText: Rangle logo
