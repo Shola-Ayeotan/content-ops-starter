@@ -67,7 +67,7 @@ sections:
           - mr-0
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Welcome to my portfolio!
       color: text-dark
       styles:
         self:
