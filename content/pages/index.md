@@ -15,7 +15,7 @@ sections:
       make informed decisions.
     actions:
       - label: ''
-        altText: ''
+        altText: Linkedin
         url: /www.linkedin.com/in/oluwanishola/
         showIcon: true
         icon: linkedin
@@ -32,7 +32,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        altText: ''
+        altText: Instagram
         url: /www.instagram.com/theoluwanishola
         showIcon: true
         icon: instagram
@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/Shola 1 - Copy.jpg
+      url: /images/abstract-feature1.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
