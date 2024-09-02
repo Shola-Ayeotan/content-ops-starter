@@ -54,7 +54,7 @@
                     "label": "Blog"
                 }
             ],
-            "labelStyle": "primary",
+            "labelStyle": "secondary",
             "type": "SubNav"
         }
     ],
