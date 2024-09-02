@@ -65,6 +65,40 @@ sections:
           - pr-1
         margin:
           - mr-0
+  - posts:
+      - content/pages/blog/case-study-1.md
+      - content/pages/blog/case-study-2.md
+      - content/pages/blog/case-study-3.md
+    showThumbnail: true
+    showDate: true
+    showAuthor: true
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    type: FeaturedPostsSection
+    hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: My Work
+      color: text-dark
+    actions:
+      - type: Button
+        label: Explore More Projects
+        altText: ''
+        url: /Projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    subtitle: Here’s a showcase of some of my published projects.
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
@@ -124,40 +158,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-    title:
-      type: TitleBlock
-      text: My Work
-      color: text-dark
-    actions:
-      - type: Button
-        label: Explore More Projects
-        altText: ''
-        url: /Projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    subtitle: Here’s a showcase of some of my published projects.
   - type: GenericSection
     subtitle: ABOUT ME
     text: >
