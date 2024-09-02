@@ -204,7 +204,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /See projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
