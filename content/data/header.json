@@ -42,7 +42,7 @@
             "label": "Blog",
             "altText": "Blog",
             "links": [],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
