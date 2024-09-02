@@ -65,6 +65,17 @@ sections:
           - pr-1
         margin:
           - mr-0
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
