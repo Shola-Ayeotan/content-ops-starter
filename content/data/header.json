@@ -50,7 +50,8 @@
                     "icon": "facebook",
                     "iconPosition": "left",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "Blog"
                 }
             ],
             "labelStyle": "primary",
