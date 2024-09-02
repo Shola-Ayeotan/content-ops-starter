@@ -162,7 +162,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About me.
+      text: ABOUT ME
       color: text-dark
       styles:
         self:
