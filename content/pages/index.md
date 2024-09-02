@@ -213,6 +213,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Business Consulting
+      color: text-dark
+    subtitle: Be in good company
+    text: >
+      A service that provides advice and guidance to startups and small
+      businesses.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
