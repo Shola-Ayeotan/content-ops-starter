@@ -183,7 +183,7 @@ sections:
   - subtitle: Skills and proficiencies
     images:
       - url: /images/1 (2).png
-        altText: Empathy logo
+        altText: Looker logo
         type: ImageBlock
       - url: /images/2 (2).png
         altText: Wellster logo
