@@ -418,6 +418,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+    subtitle: Here’s a showcase of some of my most impactful projects
   - title: Divider
     colors: bg-light-fg-dark
     styles:
