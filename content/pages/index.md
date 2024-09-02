@@ -65,6 +65,86 @@ sections:
           - pr-1
         margin:
           - mr-0
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - subtitle: A snapshot of my technical skills and proficiencies
+    images:
+      - url: /images/1 (2).png
+        altText: Looker logo
+        type: ImageBlock
+      - url: /images/2 (2).png
+        altText: Tensorflow logo
+        type: ImageBlock
+      - url: /images/1 (3).png
+        altText: Azure logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/2 (3).png
+        altText: GCP  alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/5.png
+        altText: Python  logo
+        type: ImageBlock
+      - url: /images/3.png
+        altText: SQL logo
+        type: ImageBlock
+      - url: /images/4 (2).png
+        altText: R logo
+        type: ImageBlock
+      - url: /images/1.png
+        altText: PowerBI logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/5 (2).png
+        altText: SKLearn alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/3 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/4 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -147,75 +227,6 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
-  - subtitle: A snapshot of my technical skills and proficiencies
-    images:
-      - url: /images/1 (2).png
-        altText: Looker logo
-        type: ImageBlock
-      - url: /images/2 (2).png
-        altText: Tensorflow logo
-        type: ImageBlock
-      - url: /images/1 (3).png
-        altText: Azure logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/2 (3).png
-        altText: GCP  alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/5.png
-        altText: Python  logo
-        type: ImageBlock
-      - url: /images/3.png
-        altText: SQL logo
-        type: ImageBlock
-      - url: /images/4 (2).png
-        altText: R logo
-        type: ImageBlock
-      - url: /images/1.png
-        altText: PowerBI logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/5 (2).png
-        altText: SKLearn alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/3 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/4 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
