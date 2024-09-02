@@ -180,7 +180,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Key skills and proficiencies
+  - subtitle: Skills and proficiencies
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
