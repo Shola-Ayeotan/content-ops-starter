@@ -193,7 +193,7 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/2 (3).png
-        altText: Image alt text placeholder
+        altText: GCP  alt text placeholder
         elementId: ''
         styles:
           self:
