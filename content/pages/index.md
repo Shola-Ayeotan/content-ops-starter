@@ -190,7 +190,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Untitled design.png
+      url: /images/1 (4).png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
