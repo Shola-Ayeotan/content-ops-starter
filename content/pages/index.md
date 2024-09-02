@@ -108,6 +108,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+        fontWeight: 400
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
