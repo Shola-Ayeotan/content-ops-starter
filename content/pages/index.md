@@ -78,11 +78,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I’m a data scientist with a passion for solving problems through data. My
+      work focuses on analyzing patterns, building predictive models, and
+      delivering actionable insights that help businesses and organizations make
+      informed decisions.
     actions: []
     media:
       title: Title of the video
