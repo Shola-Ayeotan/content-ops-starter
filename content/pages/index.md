@@ -76,7 +76,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Learn more about me
         url: /
         showIcon: true
         icon: arrowRight
