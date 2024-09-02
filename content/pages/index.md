@@ -117,7 +117,7 @@ sections:
           self:
             borderRadius: medium
     motion: move-to-left
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
