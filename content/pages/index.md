@@ -122,10 +122,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: Technical Skills
-      color: text-dark
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
