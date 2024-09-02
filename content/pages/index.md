@@ -97,6 +97,14 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
+        altText: ''
+        url: /
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         altText: Twitter
         url: /
         showIcon: true
