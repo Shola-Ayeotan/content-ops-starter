@@ -197,7 +197,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pr-28
-          - pl-28
+          - pl-44
           - pt-11
           - pb-11
   - subtitle: A snapshot of my technical skills and proficiencies
