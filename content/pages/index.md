@@ -213,6 +213,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+        fontWeight: 700
   - type: GenericSection
     subtitle: ''
     text: >+
