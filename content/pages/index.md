@@ -414,8 +414,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      I’d love to hear from you. Kindly feel free to reach out through
-      ayeotanofficial\@gmail.com 
+      I’d love to hear from you. Kindly feel free to reach out, anytime, through
+      [ayeotanofficial@gmail.com.](mailto:ayeotanofficial@gmail.com)
     media:
       fields:
         - name: name
