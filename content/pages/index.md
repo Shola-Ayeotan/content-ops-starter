@@ -169,6 +169,7 @@ sections:
         justifyContent: center
         margin:
           - mr-9
+          - ml-9
       subtitle:
         textAlign: center
   - type: GenericSection
