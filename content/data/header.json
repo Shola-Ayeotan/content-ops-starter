@@ -52,12 +52,15 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
+            "type": "Button",
+            "label": "Discover my work",
+            "altText": "",
+            "url": "/Projects",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
