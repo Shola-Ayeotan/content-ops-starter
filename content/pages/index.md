@@ -10,12 +10,9 @@ sections:
     subtitle: Data nerd. Learning. Creativity.
     text: >
       I’m Shola, a data scientist with a passion for solving problems through
-      data. 
-
-
-      My work focuses on analyzing patterns, building predictive models, and
-      delivering actionable insights that help businesses and organizations make
-      informed decisions.
+      data. My work focuses on analyzing patterns, building predictive models,
+      and delivering actionable insights that help businesses and organizations
+      make informed decisions.
     actions:
       - label: Projects
         altText: ''
