@@ -15,7 +15,7 @@ sections:
       make informed decisions.
     actions:
       - label: ''
-        altText: ''
+        altText: Linkedin
         url: /www.linkedin.com/in/oluwanishola/
         showIcon: true
         icon: linkedin
