@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Discover My Work
         altText: ''
         url: /Projects
         showIcon: false
