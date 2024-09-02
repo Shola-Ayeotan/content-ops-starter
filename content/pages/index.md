@@ -214,7 +214,7 @@ sections:
       subtitle:
         textAlign: left
   - type: GenericSection
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       With an MSc in Data Science from the University of Salford and an MBA in
       Business Intelligence, I am proficient at transforming complex data into
