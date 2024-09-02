@@ -182,7 +182,7 @@ sections:
         textAlign: center
   - subtitle: Skills and proficiencies
     images:
-      - url: /images/Power-BI.webp
+      - url: /images/Powerbi.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
