@@ -14,6 +14,15 @@ sections:
       and delivering actionable insights that help businesses and organizations
       make informed decisions.
     actions:
+      - type: Button
+        label: Discover My Work
+        altText: ''
+        url: /Projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - label: ''
         altText: Linkedin
         url: /www.linkedin.com/in/oluwanishola/
@@ -46,15 +55,6 @@ sections:
         icon: twitter
         iconPosition: left
         style: secondary
-        elementId: ''
-      - type: Button
-        label: Discover My Work
-        altText: ''
-        url: /Projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
         elementId: ''
     media:
       url: /images/1 (4).png
