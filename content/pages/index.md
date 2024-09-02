@@ -42,6 +42,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        altText: Twitter
+        url: /twitter.com/theoluwanishola
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
