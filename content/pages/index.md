@@ -192,7 +192,7 @@ sections:
         altText: Vise logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/2 (3).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
