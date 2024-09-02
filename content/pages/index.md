@@ -186,7 +186,7 @@ sections:
         altText: Looker logo
         type: ImageBlock
       - url: /images/2 (2).png
-        altText: Wellster logo
+        altText: Tensorflow logo
         type: ImageBlock
       - url: /images/1 (3).png
         altText: Vise logo
