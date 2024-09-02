@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Data nerd. Learning. Creativity.
     text: >
-      I’m Shola, a data scientist with a passion for solving problems through
-      data. My work focuses on analyzing patterns, building predictive models,
-      and delivering actionable insights that help businesses and organizations
-      make informed decisions.
+      I’m a data scientist with a passion for solving problems through data. My
+      work focuses on analyzing patterns, building predictive models, and
+      delivering actionable insights that help businesses and organizations make
+      informed decisions.
     actions:
       - label: ''
         altText: Linkedin
@@ -63,101 +63,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/main-hero.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - subtitle: A snapshot of my technical skills and proficiencies
-    images:
-      - url: /images/1 (2).png
-        altText: Looker logo
-        type: ImageBlock
-      - url: /images/2 (2).png
-        altText: Tensorflow logo
-        type: ImageBlock
-      - url: /images/1 (3).png
-        altText: Azure logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/2 (3).png
-        altText: GCP  alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - url: /images/5.png
-        altText: Python  logo
-        type: ImageBlock
-      - url: /images/3.png
-        altText: SQL logo
-        type: ImageBlock
-      - url: /images/4 (2).png
-        altText: R logo
-        type: ImageBlock
-      - url: /images/1.png
-        altText: PowerBI logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/5 (2).png
-        altText: SKLearn alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/3 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/4 (3).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -262,6 +167,98 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    subtitle: ABOUT ME
+    text: >+
+      ##### With an MSc in Data Science from the University of Salford and an
+      MBA in Business Intelligence, I specialize in transforming complex data
+      into strategic assets. My expertise spans machine learning, predictive
+      modelling, and data visualization, all aimed at solving real-world
+      problems and adding tangible business value. I thrive on challenges that
+      require innovative thinking, and I’m committed to continuous learning and
+      staying ahead in this fast-evolving field.
+
+    actions:
+      - type: Link
+        label: Learn more about me
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/Untitled design.png
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pr-20
+          - pl-44
+          - pt-11
+          - pb-11
+  - subtitle: A snapshot of my technical skills and proficiencies
+    images:
+      - url: /images/1 (2).png
+        altText: Looker logo
+        type: ImageBlock
+      - url: /images/2 (2).png
+        altText: Tensorflow logo
+        type: ImageBlock
+      - url: /images/1 (3).png
+        altText: Azure logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/2 (3).png
+        altText: GCP  alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/5.png
+        altText: Python  logo
+        type: ImageBlock
+      - url: /images/3.png
+        altText: SQL logo
+        type: ImageBlock
+      - url: /images/4 (2).png
+        altText: R logo
+        type: ImageBlock
+      - url: /images/1.png
+        altText: PowerBI logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/5 (2).png
+        altText: SKLearn alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/3 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/4 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
