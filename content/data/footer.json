@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Oluwanishola Ayeotan\n\n",
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "© 2024 Oluwanishola Ayeotan. All rights reserved.\n",
     "colors": "bg-neutral-fg-dark",
