@@ -234,7 +234,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/4 (4).png
       altText: Dope design preview
     badge:
       type: Badge
