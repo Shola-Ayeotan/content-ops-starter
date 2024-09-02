@@ -171,6 +171,7 @@ sections:
           - mr-9
           - ml-9
           - mt-9
+          - mb-9
       subtitle:
         textAlign: center
   - type: GenericSection
