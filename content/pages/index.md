@@ -88,7 +88,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/abstract-background.svg
+      url: /images/Shola a.jpg
       altText: Dope design preview
     badge:
       type: Badge
