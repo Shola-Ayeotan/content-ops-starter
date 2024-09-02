@@ -124,7 +124,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Technical Skills
       color: text-dark
   - type: FeaturedItemsSection
     title:
