@@ -62,7 +62,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-4
+          - pr-2
         margin:
           - mr-0
   - type: FeaturedItemsSection
