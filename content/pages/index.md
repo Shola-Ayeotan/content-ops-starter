@@ -88,6 +88,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: GitHub
+        url: /
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
