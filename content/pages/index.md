@@ -16,7 +16,7 @@ sections:
       make informed decisions.
 
     actions:
-      - label: Get started
+      - label: Projects
         altText: ''
         url: /
         showIcon: false
