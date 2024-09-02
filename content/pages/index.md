@@ -196,7 +196,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pr-10
+          - pr-20
           - pl-44
           - pt-11
           - pb-11
