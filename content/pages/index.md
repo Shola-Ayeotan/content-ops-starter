@@ -413,7 +413,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: "You can reach out to me via my email -\_ayeotanofficial\\@gmail.com\_at any time.\n\n\n\n\n"
+    text: |+
+      I’d love to hear from you. Kindly feel free to reach out!
+
     media:
       fields:
         - name: name
