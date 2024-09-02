@@ -182,7 +182,7 @@ sections:
         textAlign: center
   - subtitle: Skills and proficiencies
     images:
-      - url: /images/Powerbi.png
+      - url: /images/4 (2).png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/SQL c.png
