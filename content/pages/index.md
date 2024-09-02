@@ -96,6 +96,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: Twitter
+        url: /
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
