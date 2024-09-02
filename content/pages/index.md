@@ -197,7 +197,7 @@ sections:
       type: ImageBlock
       url: /images/4 (4).png
       altText: Dope design preview
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
