@@ -198,6 +198,7 @@ sections:
         padding:
           - pr-20
           - pl-28
+          - pt-11
   - subtitle: A snapshot of my technical skills and proficiencies
     images:
       - url: /images/1 (2).png
