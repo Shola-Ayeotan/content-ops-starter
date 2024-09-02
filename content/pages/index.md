@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/Shola a.jpg
+      url: /images/Shola 1 - Copy.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
