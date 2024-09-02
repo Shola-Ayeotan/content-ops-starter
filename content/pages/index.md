@@ -51,7 +51,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/main-hero.jpg
+      url: /images/1 (4).png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
