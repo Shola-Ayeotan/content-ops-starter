@@ -191,7 +191,7 @@ sections:
       - url: /images/SQL-Server.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/5.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
