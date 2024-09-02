@@ -41,19 +41,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "links": [
-                {
-                    "type": "Link",
-                    "altText": "Facebook",
-                    "url": "/blog",
-                    "showIcon": true,
-                    "icon": "facebook",
-                    "iconPosition": "left",
-                    "style": "secondary",
-                    "elementId": "",
-                    "label": "Blog"
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
