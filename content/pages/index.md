@@ -84,6 +84,9 @@ sections:
       - url: /images/3.png
         altText: SQL logo
         type: ImageBlock
+      - url: /images/4 (2).png
+        altText: R logo
+        type: ImageBlock
       - url: /images/1 (2).png
         altText: Looker logo
         type: ImageBlock
@@ -100,9 +103,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/4 (2).png
-        altText: R logo
-        type: ImageBlock
       - url: /images/1.png
         altText: PowerBI logo
         type: ImageBlock
