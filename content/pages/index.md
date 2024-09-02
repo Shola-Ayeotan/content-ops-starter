@@ -410,7 +410,7 @@ sections:
       color: text-dark
     actions:
       - type: Button
-        label: Get started
+        label: Explore More Projects
         altText: ''
         url: /Projects
         showIcon: false
