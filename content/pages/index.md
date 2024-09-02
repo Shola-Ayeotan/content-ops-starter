@@ -125,7 +125,7 @@ sections:
     title:
       type: TitleBlock
       text: Technical Skills
-      color: text-dark
+      color: text-light
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
