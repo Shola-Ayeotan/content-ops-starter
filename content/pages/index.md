@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/4 (4).png
+      url: /images/1 (4).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
