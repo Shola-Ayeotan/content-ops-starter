@@ -408,6 +408,16 @@ sections:
       type: TitleBlock
       text: My Work
       color: text-dark
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /Projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
