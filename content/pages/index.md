@@ -96,6 +96,13 @@ sections:
       - url: /images/Untitled design (1).png
         altText: Tensorflow logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/3 (3).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/1 (3).png
         altText: Azure logo
         type: ImageBlock
@@ -109,13 +116,6 @@ sections:
       - type: ImageBlock
         url: /images/5 (2).png
         altText: SKLearn alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/3 (3).png
-        altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
