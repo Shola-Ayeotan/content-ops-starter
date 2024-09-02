@@ -63,7 +63,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Skills and proficiencies
+  - subtitle: Technical Skills
     images:
       - url: /images/1 (2).png
         altText: Looker logo
