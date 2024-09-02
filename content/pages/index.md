@@ -103,19 +103,19 @@ sections:
         styles:
           self:
             borderRadius: medium
+      - type: ImageBlock
+        url: /images/5 (2).png
+        altText: SKLearn alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/1 (3).png
         altText: Azure logo
         type: ImageBlock
       - type: ImageBlock
         url: /images/2 (3).png
         altText: GCP  alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/5 (2).png
-        altText: SKLearn alt text placeholder
         elementId: ''
         styles:
           self:
