@@ -126,41 +126,6 @@ sections:
     type: ImageGallerySection
   - type: GenericSection
     subtitle: ABOUT ME
-    text: >+
-      ##### With an MSc in Data Science from the University of Salford and an
-      MBA in Business Intelligence, I specialize in transforming complex data
-      into strategic assets. My expertise spans machine learning, predictive
-      modelling, and data visualization, all aimed at solving real-world
-      problems and adding tangible business value. I thrive on challenges that
-      require innovative thinking, and I’m committed to continuous learning and
-      staying ahead in this fast-evolving field.
-
-    actions:
-      - type: Link
-        label: Learn more about me
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/4 (4).png
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pr-36
-          - pl-36
-          - pt-11
-          - pb-11
-      subtitle:
-        fontWeight: 700
-  - type: GenericSection
-    subtitle: ABOUT ME
     text: >
       With an MSc in Data Science from the University of Salford and an MBA in
       Business Intelligence, I specialize in transforming complex data into
