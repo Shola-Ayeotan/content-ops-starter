@@ -25,7 +25,7 @@ sections:
         type: Link
       - type: Link
         altText: GitHub
-        url: /github.com/Shola-Ayeotan
+        url: www.github.com/Shola-Ayeotan
         showIcon: true
         icon: github
         iconPosition: left
