@@ -31,14 +31,80 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+This project uses H2O.ai to build a machine-learning model that helps financial institutions decide who gets a loan. By analyzing applicant information like income and credit score, the model predicts loan eligibility, streamlining the approval process.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> *By Clara White - VP of Marketing*
+#### Objective
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The primary goal was to create an efficient and accurate model to predict whether an applicant is eligible for a loan based on their demographic and financial information. This approach reduces the manual effort involved in loan processing and enhances the consistency of approval decisions.
 
-![](/images/img-placeholder.svg)
+#### Tech Stack
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   Programming Language: Python
+
+*   Libraries: Scikit-learn, H2O, pandas, numpy, Flask, Seaborn, Matplotlib
+
+*   Containerization: Docker
+
+#### Dataset Description
+
+The dataset used for this project is an anonymized, synthetic dataset designed to mirror real-world loan data. It contains over 100,000 records, each with detailed information about the customer's financial history and loan application.
+
+#### Approach:
+
+1.  Exploratory Data Analysis (EDA):
+
+*   Missing data analysis and imputation.
+
+*   Removal of irrelevant features.
+
+*   Visualization of feature distributions.
+
+2\. Data Pre-processing:
+
+*   Handling of outliers.
+
+*   Categorical data encoding using One-Hot and Label Encoding.
+
+3\. Feature Engineering:
+
+*   Creation of non-linear combinations of features.
+
+*   Addition of derived features based on existing data.
+
+*   Applied Standard Scaler to normalize the data.
+
+4\. Modeling:
+
+*   Implemented various machine learning models including Random Forest, Gradient Boosting, XGBoost, and Neural Networks.
+
+*   Models were evaluated using metrics like Precision, Recall, AUC, and F1 Score.
+
+5\. Hyperparameter Tuning:
+
+*   Used GridSearchCV to optimize model performance.
+
+6\. Model Deployment:
+
+*   Deployed the final model using Flask, encapsulated in a Docker container for easy scalability and deployment.
+
+#### Project Takeaways
+
+*   Mastered EDA techniques for complex datasets.
+
+*   Gained expertise in data cleaning, feature engineering, and data standardization.
+
+*   Developed multiple machine learning models and evaluated their performance.
+
+*   Successfully deployed a predictive model using Flask and Docker.
+
+*   Improved understanding of model metrics such as AUCPR, AUC, and F1 Score.
+
+#### Impact
+
+The final model achieved a high accuracy rate, enabling quicker and more consistent loan approval decisions. This solution effectively reduces the risk of loan defaults and helps financial institutions optimize their loan portfolios.
+
+#### Project Repository
+
+Explore the full implementation, including code, data, and detailed analysis, on GitHub.
+
+[View Project on GitHub](https://github.com/Shola-Ayeotan/Loan-Eligbility)
