@@ -227,6 +227,7 @@ sections:
         style: primary
         elementId: ''
     subtitle: Here’s a showcase of some of my published projects.
+    showExcerpt: true
   - title:
       text: Get in touch
       color: text-dark
