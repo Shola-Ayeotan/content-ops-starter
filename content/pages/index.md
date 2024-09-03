@@ -62,7 +62,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-1
+          - pr-16
         margin:
           - mr-0
   - type: DividerSection
@@ -211,7 +211,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
     title:
       type: TitleBlock
       text: My Work
@@ -226,7 +226,17 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Github Repo
+        altText: ''
+        url: 'https://github.com/Shola-Ayeotan'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     subtitle: Here’s a showcase of some of my published projects.
+    showExcerpt: true
   - title:
       text: Get in touch
       color: text-dark
