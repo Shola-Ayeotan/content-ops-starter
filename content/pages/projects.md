@@ -13,10 +13,10 @@ sections:
     text: >
       Each project featured here is a reflection of my journey as a data
       scientist, showing my ability to take on different challenges and deliver
-      meaningful outcomes. 
+      meaningful outcomes.
 
 
-      Many of the projects are open-source, so if something catches your eye,
+      Most of the projects are open-source, so if something catches your eye,
       take a look at the code and contribute if you have ideas for how to
       improve it.
     actions: []
