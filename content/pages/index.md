@@ -78,12 +78,6 @@ sections:
       informed decisions.
 
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         altText: LinkedIn
         url: 'https://www.linkedin.com/in/oluwanishola/'
@@ -92,6 +86,12 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
       - type: Link
         label: See Tutorials
         url: /
