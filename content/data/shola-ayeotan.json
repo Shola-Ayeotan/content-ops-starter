@@ -4,7 +4,7 @@
     "role": "Job title",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/avatar1.svg",
+        "url": "/images/Bio.png",
         "altText": "First Last",
         "styles": {
             "self": {
