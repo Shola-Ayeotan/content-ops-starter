@@ -211,7 +211,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow
     title:
       type: TitleBlock
       text: My Work
