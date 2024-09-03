@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Loan Eligibility using H20.ai and Deep Learning
+title: eCommerce Recommendation System
 date: '2023-10-24'
 excerpt: >-
   This project implemented a statistical model to ascertain loan eligibility for
