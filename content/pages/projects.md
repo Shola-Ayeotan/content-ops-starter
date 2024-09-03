@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       The projects featured here reflect my journey as a data scientist,
       demonstrating my ability to take on different challenges and deliver
