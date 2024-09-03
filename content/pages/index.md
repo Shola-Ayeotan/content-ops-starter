@@ -227,7 +227,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Github Repo
         altText: ''
         url: /
         showIcon: false
