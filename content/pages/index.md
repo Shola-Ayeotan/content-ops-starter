@@ -14,6 +14,15 @@ sections:
       delivering actionable insights that help businesses and organizations make
       informed decisions.
     actions:
+      - type: Button
+        label: About Me
+        altText: ''
+        url: ''
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: ''
         altText: Linkedin
         url: 'https://www.linkedin.com/in/oluwanishola/'
@@ -195,6 +204,7 @@ sections:
           - pr-16
           - pl-16
           - pb-16
+        alignItems: flex-end
       subtitle:
         textAlign: left
         fontWeight: 700
