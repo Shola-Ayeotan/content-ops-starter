@@ -66,6 +66,7 @@ sections:
           - pt-16
           - pr-16
           - pl-16
+          - pb-16
   - type: GenericSection
     title:
       text: Welcome to my portfolio!
