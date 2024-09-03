@@ -209,7 +209,7 @@ sections:
         textAlign: left
         fontWeight: 700
       text:
-        textAlign: justify
+        textAlign: left
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
