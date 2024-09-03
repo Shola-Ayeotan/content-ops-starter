@@ -28,7 +28,7 @@ bottomSections:
   - items:
       - type: FeaturedItem
         title: Project Repository
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Explore the full implementation, including code, data, and detailed
