@@ -1,7 +1,7 @@
 ---
 title: 'Predicting Customer Behavior using Machine Learning '
 slug: case-study-2
-date: '2022-02-16'
+date: '2023-08-04'
 excerpt: >-
   This project leveraged ensemble machine learning algorithms to predict
   customer subscriptions to financial products offered by a Bank. 
