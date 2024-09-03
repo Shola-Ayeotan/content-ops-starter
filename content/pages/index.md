@@ -208,6 +208,8 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
+      text:
+        textAlign: justify
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
