@@ -193,7 +193,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: medium
     colors: bg-light-fg-dark
     styles:
       self:
