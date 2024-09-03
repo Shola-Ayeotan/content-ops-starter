@@ -31,20 +31,20 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Link
-        altText: Instagram
-        url: 'https://www.instagram.com/theoluwanishola'
-        showIcon: true
-        icon: instagram
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Button
         label: Learn more about me
         altText: ''
         url: ''
         showIcon: false
         icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: Instagram
+        url: 'https://www.instagram.com/theoluwanishola'
+        showIcon: true
+        icon: instagram
         iconPosition: right
         style: secondary
         elementId: ''
