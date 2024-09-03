@@ -10,13 +10,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
+      \<div style="text-align: left">Each project featured here is a reflection
+      of my journey as a data scientist, demonstrating my ability to take on
+      different challenges and deliver meaningful outcomes. From predictive
+      modelling to data visualization, these projects show the progress and
+      range of my skill development.\</div>
 
-      Each project featured here is a reflection of my journey as a data
-      scientist, demonstrating my ability to take on different challenges and
-      deliver meaningful outcomes. From predictive modelling to data
-      visualization, these projects show the progress and range of my skill
-      development.
     actions: []
     colors: bg-light-fg-dark
     styles:
