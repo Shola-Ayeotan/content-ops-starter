@@ -16,7 +16,7 @@ sections:
       meaningful outcomes. From predictive modelling to data visualization,
       these projects show the range and progress of my skill development.
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
