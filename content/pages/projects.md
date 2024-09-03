@@ -15,13 +15,7 @@ sections:
       demonstrating my ability to take on different challenges and deliver
       meaningful outcomes. From predictive modelling to data visualization,
       these projects show the range and progress of my skill development.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
