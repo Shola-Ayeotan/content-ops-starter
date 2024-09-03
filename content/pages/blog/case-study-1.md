@@ -28,8 +28,9 @@ bottomSections:
         title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >
+          Explore the full implementation, including code, data, and detailed
+          analysis, on GitHub.
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
