@@ -30,8 +30,9 @@ bottomSections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Explore the full implementation, including code, data, and detailed
+          analysis, on GitHub.
         actions: []
         colors: bg-light-fg-dark
         styles:
