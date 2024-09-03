@@ -40,7 +40,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: ''
       color: text-dark
       styles:
         self:
