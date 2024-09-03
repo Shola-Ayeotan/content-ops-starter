@@ -94,12 +94,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         altText: ''
         url: 'https://www.instagram.com/theoluwanishola'
@@ -108,6 +102,12 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
     media:
       type: ImageBlock
       url: /images/1 (4) - Copy.png
