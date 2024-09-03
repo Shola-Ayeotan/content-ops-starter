@@ -27,7 +27,7 @@ bottomSections:
     type: DividerSection
   - items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Project Repository
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
