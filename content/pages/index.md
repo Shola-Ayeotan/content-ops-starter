@@ -41,7 +41,7 @@ sections:
         elementId: ''
       - type: Link
         altText: Twitter
-        url: /twitter.com/theoluwanishola
+        url: 'https://twitter.com/theoluwanishola'
         showIcon: true
         icon: twitter
         iconPosition: left
