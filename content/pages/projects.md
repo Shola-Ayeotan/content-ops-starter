@@ -20,7 +20,7 @@ sections:
       take a look at the code and contribute if you have ideas for how to
       improve it.
     actions: []
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
