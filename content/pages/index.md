@@ -62,6 +62,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-16
   - type: GenericSection
     title:
       text: Welcome to my portfolio!
