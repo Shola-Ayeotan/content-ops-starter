@@ -8,7 +8,7 @@ excerpt: >-
   search history. 
 featuredImage:
   type: ImageBlock
-  url: /images/Loan.png
+  url: /images/Ecommerce.webp
   altText: Case study 3
   styles:
     self:
