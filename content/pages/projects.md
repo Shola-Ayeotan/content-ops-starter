@@ -3,7 +3,7 @@ title: Projects
 slug: projects
 sections:
   - title:
-      text: A team that works closely together
+      text: My Projects
       color: text-dark
       styles:
         self:
