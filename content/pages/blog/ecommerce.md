@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Loan Eligibility using H20.ai and Deep Learning
-date: '2023-10-15'
+date: '2023-10-24'
 excerpt: >-
   This project implemented a statistical model to ascertain loan eligibility for
   individuals applying for loans. Using a comprehensive dataset of over 100,000
