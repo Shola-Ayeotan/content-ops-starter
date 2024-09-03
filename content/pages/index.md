@@ -14,15 +14,6 @@ sections:
       delivering actionable insights that help businesses and organizations make
       informed decisions.
     actions:
-      - label: ''
-        altText: Linkedin
-        url: 'https://www.linkedin.com/in/oluwanishola/'
-        showIcon: true
-        icon: linkedin
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - type: Button
         label: Learn more about me
         altText: ''
@@ -32,6 +23,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - label: ''
+        altText: Linkedin
+        url: 'https://www.linkedin.com/in/oluwanishola/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
       - type: Link
         altText: GitHub
         url: 'https://github.com/Shola-Ayeotan'
