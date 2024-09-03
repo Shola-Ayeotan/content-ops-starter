@@ -100,6 +100,14 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+      - type: Link
+        altText: ''
+        url: 'https://www.instagram.com/theoluwanishola'
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1 (4) - Copy.png
