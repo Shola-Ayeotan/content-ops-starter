@@ -15,13 +15,6 @@ featuredImage:
   type: ImageBlock
 bottomSections:
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
