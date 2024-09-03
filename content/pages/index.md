@@ -192,7 +192,7 @@ sections:
             - pr-2
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 2
+          borderWidth: 1
           borderRadius: medium
     colors: bg-light-fg-dark
     styles:
