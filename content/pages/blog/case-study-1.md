@@ -31,13 +31,6 @@ bottomSections:
         text: >
           Explore the full implementation, including code, data, and detailed
           analysis, on GitHub.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
