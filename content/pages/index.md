@@ -118,7 +118,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/1 (4) - Copy.png
+      url: /images/Bio.png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
