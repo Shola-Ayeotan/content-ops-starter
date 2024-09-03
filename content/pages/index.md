@@ -55,7 +55,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/1 (4) - Copy.png
+      url: /images/1 (4).png
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
