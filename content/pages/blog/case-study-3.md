@@ -33,7 +33,16 @@ bottomSections:
         text: >
           Explore the full implementation, including code, data, and detailed
           analysis, on GitHub.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://github.com/Shola-Ayeotan/Loan-Eligbility'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
