@@ -16,7 +16,7 @@ sections:
     actions:
       - label: ''
         altText: Linkedin
-        url: www.linkedin.com/in/oluwanishola/
+        url: 'https://www.linkedin.com/in/oluwanishola/'
         showIcon: true
         icon: linkedin
         iconPosition: right
@@ -33,7 +33,7 @@ sections:
         elementId: ''
       - type: Link
         altText: Instagram
-        url: /www.instagram.com/theoluwanishola
+        url: 'https://www.instagram.com/theoluwanishola'
         showIcon: true
         icon: instagram
         iconPosition: right
@@ -41,7 +41,7 @@ sections:
         elementId: ''
       - type: Link
         altText: Twitter
-        url: /twitter.com/theoluwanishola
+        url: 'https://twitter.com/theoluwanishola'
         showIcon: true
         icon: twitter
         iconPosition: left
@@ -51,7 +51,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/Shola 1.jpg
+      url: /images/1 (4).png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
