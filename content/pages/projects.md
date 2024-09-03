@@ -1,6 +1,6 @@
 ---
 title: Projects
-slug: careers
+slug: projects
 sections:
   - title:
       text: A team that works closely together
