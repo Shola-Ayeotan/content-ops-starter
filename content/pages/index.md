@@ -4,6 +4,71 @@ slug: /
 sections:
   - type: GenericSection
     title:
+      type: TitleBlock
+      text: Welcome to my portfolio!
+      color: text-dark
+    subtitle: ''
+    text: >+
+      I’m a data scientist with a passion for solving problems through data. My
+      work focuses on analyzing patterns, building predictive models, and
+      delivering actionable insights that help businesses and organizations make
+      informed decisions.
+
+    actions:
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/oluwanishola/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: GitHub
+        url: 'https://github.com/Shola-Ayeotan'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: ''
+        url: 'https://www.instagram.com/theoluwanishola'
+        showIcon: true
+        icon: instagram
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: Twitter
+        url: 'https://twitter.com/theoluwanishola'
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+    media:
+      type: ImageBlock
+      url: /images/Bio.png
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-16
+          - pr-16
+          - pl-16
+          - pb-16
+  - type: GenericSection
+    title:
       text: Welcome to my portfolio!
       color: text-dark
       type: TitleBlock
@@ -51,7 +116,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/1 (4).png
+      url: /images/1 (4) - Copy.png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
