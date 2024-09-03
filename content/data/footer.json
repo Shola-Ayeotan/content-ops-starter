@@ -9,5 +9,12 @@
     "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-neutral-fg-dark",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-16"
+            ]
+        }
+    }
 }
