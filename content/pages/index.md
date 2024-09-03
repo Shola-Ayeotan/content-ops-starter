@@ -52,7 +52,7 @@ sections:
         altText: ''
         url: ''
         showIcon: false
-        icon: arrowRight
+        icon: arrowDown
         iconPosition: right
         style: secondary
         elementId: ''
