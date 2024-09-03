@@ -188,13 +188,13 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: center
+        justifyContent: flex-start
         padding:
           - pt-16
           - pr-16
           - pl-16
           - pb-16
-        alignItems: flex-end
+        alignItems: center
       subtitle:
         textAlign: left
         fontWeight: 700
