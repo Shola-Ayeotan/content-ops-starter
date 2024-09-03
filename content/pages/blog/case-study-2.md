@@ -1,5 +1,5 @@
 ---
-title: Customer Predictive Model with Neural Networks
+title: Predicting Customer Behaviour with Neural Networks
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
