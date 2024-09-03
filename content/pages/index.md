@@ -102,6 +102,14 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        altText: Twitter
+        url: 'https://twitter.com/theoluwanishola'
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - type: Button
         label: Get started
         url: /
