@@ -47,28 +47,29 @@ This system transforms user interaction data into graph embeddings and uses an A
 
 *   Libraries: pandas, DuckDB, numpy, pecanpy, gensim, plotly, UMAP, ANN, FAISS
 
-##### 
+#####
+
 Data Overview:
 
 The dataset for this project consisted of user interaction data from the eCommerce platform, structured across 9 attributes. These attributes included user purchase and search behaviours, which were converted into a graph format for deeper analysis and modeling.
 
 ##### Approach and Methodology:
 
-**Problem Understanding
-**Researched and outlined the requirements for a graph-based recommendation system that accurately reflects user preferences and behaviours.
+\*\*Problem Understanding
+\*\*Researched and outlined the requirements for a graph-based recommendation system that accurately reflects user preferences and behaviours.
 
 **Data Preparation**
 Extracted and optimized relevant data from the provided dataset using pandas, numpy, and DuckDB for efficient querying and processing.
 
-**
-Graph-Based Model Training: Deepwalk and Node2Vec** 
+\*\*
+Graph-Based Model Training: Deepwalk and Node2Vec\*\*
 
 *   Performed random walks on the user-product interaction graph to generate sequences for embeddings.
 
 *   Trained Deepwalk and Node2Vec models using the gensim library to create meaningful embeddings that capture user-product relationships.
 
-**Analysis and Visualization:
-**
+\*\*Analysis and Visualization:
+\*\*
 
 *   Applied UMAP to reduce the dimensionality of the embeddings, making it easier to visualize and interpret product clusters.
 
@@ -82,8 +83,7 @@ Graph-Based Model Training: Deepwalk and Node2Vec**
 
 ##### Folder Structure
 
-*
-    **Model**: Contains the trained Deepwalk and Node2Vec models.
+*   **Model**: Contains the trained Deepwalk and Node2Vec models.
 
 *   **Notebooks**: Jupyter notebooks documenting various stages of the project, including:
 
@@ -99,14 +99,12 @@ Graph-Based Model Training: Deepwalk and Node2Vec**
 
     *   Embedding Vector Search and Recommendations
 
-
 <!---->
 
-*   Scripts: Python scripts for automation and reproducibility of the project processes. 
+*   Scripts: Python scripts for automation and reproducibility of the project processes.
 
 *   requirements.txt: A file listing all necessary libraries with their specific versions to ensure compatibility.
 
 ##### Impact:
 
 This project explored a different approach to product recommendation by combining graph theory and machine learning. The use of graph embeddings allows for personalized recommendations, leading to better user engagement and potentially higher conversion rates on the platform.
-
