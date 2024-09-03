@@ -3,10 +3,9 @@ type: PostLayout
 title: eCommerce Recommendation System
 date: '2023-10-24'
 excerpt: >-
-  This project implemented a statistical model to ascertain loan eligibility for
-  individuals applying for loans. Using a comprehensive dataset of over 100,000
-  loan records, a model was developed to assess diverse factors and determine
-  the likelihood of loan repayment.
+  This project developed a recommendation system for an eCommerce platform using
+  a Graph-based approach to recommend products based on user purchases and
+  search history. 
 featuredImage:
   type: ImageBlock
   url: /images/Loan.png
