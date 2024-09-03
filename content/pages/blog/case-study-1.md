@@ -13,50 +13,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
-bottomSections:
-  - type: FeaturedItemsSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Project Repository
-        tagline: ''
-        subtitle: ''
-        text: >
-          Explore the full implementation, including code, data, and detailed
-          analysis, on GitHub.
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions:
-      - type: Button
-        label: View Project on Github
-        altText: ''
-        url: 'https://github.com/Shola-Ayeotan/Graph-Based-Recommender-System'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    variant: two-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
+bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
