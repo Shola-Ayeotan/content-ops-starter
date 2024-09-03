@@ -91,6 +91,14 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/oluwanishola/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/1 (4) - Copy.png
