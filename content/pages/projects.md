@@ -11,10 +11,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      The projects featured here reflect my journey as a data scientist,
-      demonstrating my ability to take on different challenges and deliver
-      meaningful outcomes. From predictive modelling to data visualization,
-      these projects show the range and progress of my skill development.
+
+      Each project featured here is a reflection of my journey as a data
+      scientist, demonstrating my ability to take on different challenges and
+      deliver meaningful outcomes. From predictive modelling to data
+      visualization, these projects show the progress and range of my skill
+      development.
     actions: []
     colors: bg-light-fg-dark
     styles:
