@@ -226,6 +226,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     subtitle: Here’s a showcase of some of my published projects.
     showExcerpt: true
   - title:
