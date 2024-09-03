@@ -16,7 +16,7 @@ sections:
     actions:
       - label: ''
         altText: Linkedin
-        url: /www.linkedin.com/in/oluwanishola/
+        url: www.linkedin.com/in/oluwanishola/
         showIcon: true
         icon: linkedin
         iconPosition: right
@@ -51,7 +51,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/1 (4).png
+      url: /images/Shola 1.jpg
     elementId: ''
     colors: bg-light-fg-dark
     styles:
