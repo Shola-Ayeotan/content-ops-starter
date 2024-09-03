@@ -5,8 +5,8 @@ date: '2021-11-18'
 excerpt: >-
   This project implemented a statistical model to ascertain loan eligibility for
   individuals applying for loans. Using a comprehensive dataset of over 100,000
-  loan records, a model was developed to assess divere factors and determine the
-  likelihood of loan repayment.
+  loan records, a model was developed to assess diverse factors and determine
+  the likelihood of loan repayment.
 featuredImage:
   url: /images/Loan.png
   altText: Case study 3
