@@ -71,9 +71,12 @@ sections:
       text: Welcome to my portfolio!
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      I’m a data scientist with a passion for solving problems through data. My
+      work focuses on analyzing patterns, building predictive models, and
+      delivering actionable insights that help businesses and organizations make
+      informed decisions.
+
     actions:
       - type: Button
         label: Get started
