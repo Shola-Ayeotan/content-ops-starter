@@ -144,16 +144,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     subtitle: ABOUT ME
     text: >
@@ -186,15 +176,15 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
+            - pt-1
+            - pb-1
+            - pl-1
+            - pr-1
+          borderColor: border-neutral
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
-    colors: bg-neutral-fg-dark
+          borderRadius: medium
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: row
@@ -208,6 +198,18 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
+      text:
+        textAlign: left
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
