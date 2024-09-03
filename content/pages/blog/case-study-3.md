@@ -29,7 +29,7 @@ bottomSections:
       - type: FeaturedItem
         title: Project Repository
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Explore the full implementation, including code, data, and detailed
           analysis, on GitHub.
