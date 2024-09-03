@@ -3,10 +3,11 @@ title: 'eCommerce Recommendation System '
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  This project is a Graph-based recommendation system for an eCommerce platform,
+  leveraging user purchase and search history to recommend products. By
+  transforming user interaction data into graph embeddings and using ANN-FAISS
+  model, the system aimed to enhance product discoverability and user
+  experience.
 featuredImage:
   url: /images/Ecommerce.webp
   altText: eCommerce
