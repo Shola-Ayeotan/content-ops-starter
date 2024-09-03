@@ -4,7 +4,7 @@ slug: projects
 sections:
   - title:
       text: My Projects
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
