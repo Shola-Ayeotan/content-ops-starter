@@ -51,7 +51,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/1 (4).png
+      url: /images/7 - Copy.png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
@@ -190,6 +190,11 @@ sections:
       self:
         flexDirection: row
         justifyContent: center
+        padding:
+          - pt-16
+          - pr-16
+          - pl-16
+          - pb-16
       subtitle:
         textAlign: left
         fontWeight: 700
@@ -294,6 +299,13 @@ sections:
       type: Badge
       label: CONTACT ME
       color: text-primary
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pr-16
+          - pb-16
+          - pl-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
