@@ -53,8 +53,8 @@ The dataset for this project consisted of user interaction data from the eCommer
 
 ##### Approach and Methodology:
 
-**Problem Understanding
-**Researched and outlined the requirements for a graph-based recommendation system that accurately reflects user preferences and behaviours.
+**Problem Understanding**
+Researched and outlined the requirements for a graph-based recommendation system that accurately reflects user preferences and behaviours.
 
 **Data Preparation**
 Extracted and optimized relevant data from the provided dataset using pandas, numpy, and DuckDB for efficient querying and processing.
