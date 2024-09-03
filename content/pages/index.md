@@ -169,7 +169,7 @@ sections:
         label: Learn more about me
         altText: ''
         url: /About
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
