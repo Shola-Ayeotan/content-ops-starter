@@ -35,7 +35,7 @@ bottomSections:
           analysis, on GitHub.
         actions:
           - type: Button
-            label: Get started
+            label: View Project on Github
             altText: ''
             url: 'https://github.com/Shola-Ayeotan/Loan-Eligbility'
             showIcon: false
