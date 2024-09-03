@@ -192,6 +192,7 @@ sections:
         justifyContent: center
         padding:
           - pt-16
+          - pr-16
       subtitle:
         textAlign: left
         fontWeight: 700
