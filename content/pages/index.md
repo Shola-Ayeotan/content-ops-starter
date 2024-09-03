@@ -23,14 +23,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-      - type: Link
-        altText: GitHub
-        url: 'https://github.com/Shola-Ayeotan'
-        showIcon: true
-        icon: github
-        iconPosition: left
-        style: secondary
-        elementId: ''
       - type: Button
         label: Learn more about me
         altText: ''
@@ -38,6 +30,14 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: GitHub
+        url: 'https://github.com/Shola-Ayeotan'
+        showIcon: true
+        icon: github
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
