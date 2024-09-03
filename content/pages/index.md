@@ -48,7 +48,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: Learn more about me
         altText: ''
         url: ''
         showIcon: false
