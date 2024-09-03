@@ -86,6 +86,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: GitHub
+        url: 'https://github.com/Shola-Ayeotan'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
       - type: Button
         label: Get started
         url: /
