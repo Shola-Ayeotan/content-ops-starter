@@ -163,4 +163,5 @@ seo:
   type: Seo
   metaTitle: Shola Ayeotan Projects
   metaDescription: This is the page containing all my published projects
+  socialImage: /images/abstract-feature1.svg
 ---
