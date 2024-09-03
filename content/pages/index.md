@@ -33,7 +33,7 @@ sections:
         elementId: ''
       - type: Link
         altText: Instagram
-        url: /www.instagram.com/theoluwanishola
+        url: 'https://www.instagram.com/theoluwanishola'
         showIcon: true
         icon: instagram
         iconPosition: right
