@@ -194,6 +194,7 @@ sections:
           - pt-16
           - pr-16
           - pl-16
+          - pb-16
       subtitle:
         textAlign: left
         fontWeight: 700
