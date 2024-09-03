@@ -162,4 +162,5 @@ type: PageLayout
 seo:
   type: Seo
   metaTitle: Shola Ayeotan Projects
+  metaDescription: This is the page containing all my published projects
 ---
