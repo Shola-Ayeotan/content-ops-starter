@@ -3,10 +3,8 @@ title: Predicting Customer Behavior with Neural Networks
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  This project leveraged ensemble machine learning algorithms to predict
+  customer subscriptions to financial products offered by a Bank. 
 featuredImage:
   url: /images/Customer behavious.png
   altText: Case study 2
