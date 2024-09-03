@@ -12,10 +12,14 @@ sections:
     subtitle: ''
     text: >
       Each project featured here is a reflection of my journey as a data
-      scientist, demonstrating my ability to take on different challenges and
-      deliver meaningful outcomes. From predictive modelling to data
-      visualization, these projects show the progress and range of my skill
-      development.
+      scientist, showing my ability to take on different challenges and deliver
+      meaningful outcomes. From predictive modelling to data visualization,
+      these projects demonstrate the progress and range of my skill development.
+
+
+      Many of the projects are open-source, so if something catches your eye,
+      take a look at the code and contribute if you have ideas for how to
+      improve it.
     actions: []
     colors: bg-light-fg-dark
     styles:
