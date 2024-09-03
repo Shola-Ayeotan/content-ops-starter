@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Ecommerce.webp
-  altText: Case study 1
+  altText: eCommerce
   styles:
     self:
       borderRadius: large
