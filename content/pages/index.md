@@ -190,7 +190,7 @@ sections:
             - pb-1
             - pl-1
             - pr-1
-          borderColor: border-dark
+          borderColor: border-neutral
           borderStyle: solid
           borderWidth: 1
           borderRadius: medium
