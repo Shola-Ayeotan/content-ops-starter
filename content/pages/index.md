@@ -229,7 +229,7 @@ sections:
       - type: Button
         label: Github Repo
         altText: ''
-        url: /
+        url: 'https://github.com/Shola-Ayeotan'
         showIcon: false
         icon: arrowRight
         iconPosition: right
