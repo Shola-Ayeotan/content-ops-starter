@@ -157,11 +157,3 @@ The dataset used for this project is an anonymized, synthetic dataset designed t
 
 The final model achieved a high accuracy rate, enabling quicker and more consistent loan approval decisions. This solution effectively reduces the risk of loan defaults and helps financial institutions optimize their loan portfolios.
 
-#### Project Repository
-
-Explore the full implementation, including code, data, and detailed analysis, on GitHub.
-
-[View Project on GitHub](https://github.com/Shola-Ayeotan/Loan-Eligbility)
-
-
-
