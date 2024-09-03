@@ -1,7 +1,7 @@
 ---
 title: 'eCommerce Recommendation System '
 slug: case-study-1
-date: '2023-09-05'
+date: '2023-10-05'
 excerpt: >-
   This project developed a recommendation system for an eCommerce platform using
   a Graph-based approach to recommend products based on user purchases and
