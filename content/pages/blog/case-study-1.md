@@ -33,11 +33,11 @@ type: PostLayout
 ---
 This project uses H2O.ai to build a machine-learning model that helps financial institutions decide who gets a loan. By analyzing applicant information like income and credit score, the model predicts loan eligibility, streamlining the approval process.
 
-**Objective:**
+#### Objective:
 
 The primary goal was to create an efficient and accurate model to predict whether an applicant is eligible for a loan based on their demographic and financial information. This approach reduces the manual effort involved in loan processing and enhances the consistency of approval decisions.
 
-**Tech Stack:**
+#### Tech Stack:
 
 *   Programming Language: Python
 
@@ -45,11 +45,11 @@ The primary goal was to create an efficient and accurate model to predict whethe
 
 *   Containerization: Docker
 
-**Dataset Description:**
+#### Dataset Description:
+
 The dataset used for this project is an anonymized, synthetic dataset designed to mirror real-world loan data. It contains over 100,000 records, each with detailed information about the customer's financial history and loan application.
 
-**Approach:
-**
+#### Approach:
 
 1.  Exploratory Data Analysis (EDA):
 
@@ -81,14 +81,17 @@ The dataset used for this project is an anonymized, synthetic dataset designed t
 
 5\. Hyperparameter Tuning:
 
-*   Used GridSearchCV to optimize model performance. 
+*   Used GridSearchCV to optimize model performance.
 
 6\. Model Deployment:
 
 *   Deployed the final model using Flask, encapsulated in a Docker container for easy scalability and deployment.
 
 
-Project Takeaways:
+
+#### Project Takeaways:
+
+
 Mastered EDA techniques for complex datasets.
 Gained expertise in data cleaning, feature engineering, and data standardization.
 Developed multiple machine learning models and evaluated their performance.
@@ -117,19 +120,12 @@ This project showcases the ability to handle real-world data challenges and deli
 
 The final model achieved a high accuracy rate, enabling quicker and more consistent loan approval decisions. This solution effectively reduces the risk of loan defaults and helps financial institutions optimize their loan portfolios.
 
-
 **Challenges and Learnings:**
 
 The project encountered challenges such as handling missing data and balancing the dataset. These issues were addressed through careful data preprocessing and leveraging H2O’s powerful machine-learning tools. This project enhanced my understanding of automated machine learning (AutoML) and the use of cloud-based platforms like H2O.
-
-
-
 
 Project Repository:
 
 Explore the full implementation, including code, data, and detailed analysis, on GitHub.
 
 View Project on GitHub
-
-
-
