@@ -299,6 +299,10 @@ sections:
       type: Badge
       label: CONTACT ME
       color: text-primary
+    styles:
+      self:
+        padding:
+          - pt-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
