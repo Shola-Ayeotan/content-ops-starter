@@ -50,7 +50,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: Learn more about me
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
