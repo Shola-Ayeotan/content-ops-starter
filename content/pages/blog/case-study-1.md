@@ -4,10 +4,10 @@ slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
   This project deveoped a recommendation system for an eCommerce platform using
-  a Graph-based approach to recommend products based on user purchase and search
-  history. By transforming user interaction data into graph embeddings and using
-  ANN-FAISS model, the system aimed to enhance product discoverability and user
-  experience.
+  a Graph-based approach to recommend products based on user ppurchases and
+  search history. By transforming user interaction data into graph embeddings
+  and using ANN-FAISS model, the system aimed to enhance product discoverability
+  and user experience.
 featuredImage:
   url: /images/Ecommerce.webp
   altText: eCommerce
