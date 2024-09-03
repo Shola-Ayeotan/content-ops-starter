@@ -31,6 +31,9 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+![](https://preview--shola-ayeotan-5ea16.stackbit.dev/_static/app-assets/public/images/Loan.png)
+
+
 This project uses H2O.ai to build a machine-learning model that helps financial institutions decide who gets a loan. By analyzing applicant information like income and credit score, the model predicts loan eligibility, streamlining the approval process.
 
 #### Objective
