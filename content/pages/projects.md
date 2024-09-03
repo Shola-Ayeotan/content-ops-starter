@@ -159,4 +159,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 type: PageLayout
+seo:
+  type: Seo
 ---
