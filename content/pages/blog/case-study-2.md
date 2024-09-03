@@ -1,5 +1,5 @@
 ---
-title: Predicting Customer Behavior with Neural Networks
+title: 'Predicting Customer Behavior using Machine Learning '
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
