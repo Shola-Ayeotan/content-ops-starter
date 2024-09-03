@@ -51,7 +51,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/7.png
+      url: /images/7 - Copy.png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
