@@ -37,7 +37,7 @@ bottomSections:
             flexDirection: col
     actions:
       - type: Button
-        label: Get started
+        label: View Project on Github
         altText: ''
         url: /
         showIcon: false
