@@ -55,7 +55,7 @@ sections:
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     hoverEffect: shadow-plus-move-up
     styles:
       self:
