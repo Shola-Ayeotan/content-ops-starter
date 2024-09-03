@@ -197,7 +197,7 @@ sections:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
-    showThumbnail: false
+    showThumbnail: true
     showDate: true
     showAuthor: true
     variant: three-col-grid
