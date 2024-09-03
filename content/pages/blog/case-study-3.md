@@ -1,5 +1,5 @@
 ---
-title: Loan Eligibility using H20.ai and Deep Learning
+title: Determining Loan Eligibility using H20.ai and Deep Learning
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
