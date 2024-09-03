@@ -15,7 +15,7 @@ sections:
       informed decisions.
     actions:
       - type: Button
-        label: Learn more about me
+        label: About Me
         altText: ''
         url: ''
         showIcon: false
