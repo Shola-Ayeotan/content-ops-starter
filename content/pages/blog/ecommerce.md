@@ -37,7 +37,7 @@ bottomSections:
           - type: Button
             label: View Project on Github
             altText: ''
-            url: 'https://github.com/Shola-Ayeotan/Loan-Eligbility'
+            url: 'https://github.com/Shola-Ayeotan/Graph-Based-Recommender-System'
             showIcon: false
             icon: arrowRight
             iconPosition: right
