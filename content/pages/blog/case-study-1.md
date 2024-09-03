@@ -31,80 +31,82 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-This project uses H2O.ai to build a machine-learning model that helps financial institutions decide who gets a loan. By analyzing applicant information like income and credit score, the model predicts loan eligibility, streamlining the approval process.
+In this project, I developed a graph-based recommendation system tailored for an e-commerce platform. By leveraging user purchase and search history, the system enhances product discoverability, offering personalized recommendations that improve user experience and increase sales.
 
-#### Objective
+##### Project Objective
 
-The primary goal was to create an efficient and accurate model to predict whether an applicant is eligible for a loan based on their demographic and financial information. This approach reduces the manual effort involved in loan processing and enhances the consistency of approval decisions.
+To create a recommendation engine that utilizes graph-based methods to suggest relevant products to users based on their historical interactions with the platform.
 
-#### Tech Stack
+##### Approach
 
-*   Programming Language: Python
+This system transforms user interaction data into graph embeddings and uses an Approximate Nearest Neighbors (ANN) model with FAISS to deliver fast and accurate product recommendations.
 
-*   Libraries: Scikit-learn, H2O, pandas, numpy, Flask, Seaborn, Matplotlib
+##### Technology Stack
 
-*   Containerization: Docker
+*   Languages: Python, SQL
 
-#### Dataset Description
+*   Libraries: pandas, DuckDB, numpy, pecanpy, gensim, plotly, UMAP, ANN, FAISS
 
-The dataset used for this project is an anonymized, synthetic dataset designed to mirror real-world loan data. It contains over 100,000 records, each with detailed information about the customer's financial history and loan application.
+##### 
+Data Overview:
 
-#### Approach:
+The dataset for this project consisted of user interaction data from the eCommerce platform, structured across 9 attributes. These attributes included user purchase and search behaviours, which were converted into a graph format for deeper analysis and modeling.
 
-1.  Exploratory Data Analysis (EDA):
+##### Approach and Methodology:
 
-*   Missing data analysis and imputation.
+**Problem Understanding
+**Researched and outlined the requirements for a graph-based recommendation system that accurately reflects user preferences and behaviours.
 
-*   Removal of irrelevant features.
+**Data Preparation**
+Extracted and optimized relevant data from the provided dataset using pandas, numpy, and DuckDB for efficient querying and processing.
 
-*   Visualization of feature distributions.
+**
+Graph-Based Model Training: Deepwalk and Node2Vec** 
 
-2\. Data Pre-processing:
+*   Performed random walks on the user-product interaction graph to generate sequences for embeddings.
 
-*   Handling of outliers.
+*   Trained Deepwalk and Node2Vec models using the gensim library to create meaningful embeddings that capture user-product relationships.
 
-*   Categorical data encoding using One-Hot and Label Encoding.
+**Analysis and Visualization:
+**
 
-3\. Feature Engineering:
+*   Applied UMAP to reduce the dimensionality of the embeddings, making it easier to visualize and interpret product clusters.
 
-*   Creation of non-linear combinations of features.
+*   Used Plotly to create interactive 2D and 3D visualizations that highlight product groupings and relationships.
 
-*   Addition of derived features based on existing data.
+**Embedding Vector Search with FAISS**
 
-*   Applied Standard Scaler to normalize the data.
+*   Initialized the FAISS library to conduct efficient similarity searches within the embedding space.
 
-4\. Modeling:
+*   Implemented a recommendation system that identifies and suggests similar products based on the proximity of their embeddings in the vector space.
 
-*   Implemented various machine learning models including Random Forest, Gradient Boosting, XGBoost, and Neural Networks.
+##### Folder Structure
 
-*   Models were evaluated using metrics like Precision, Recall, AUC, and F1 Score.
+*
+    **Model**: Contains the trained Deepwalk and Node2Vec models.
 
-5\. Hyperparameter Tuning:
+*   **Notebooks**: Jupyter notebooks documenting various stages of the project, including:
 
-*   Used GridSearchCV to optimize model performance.
+    *   Data Optimization
 
-6\. Model Deployment:
+    *   Data Exploration and Analysis
 
-*   Deployed the final model using Flask, encapsulated in a Docker container for easy scalability and deployment.
+    *   Model Training
 
-#### Project Takeaways
+    *   Graph Construction
 
-*   Mastered EDA techniques for complex datasets.
+    *   Result Analysis
 
-*   Gained expertise in data cleaning, feature engineering, and data standardization.
+    *   Embedding Vector Search and Recommendations
 
-*   Developed multiple machine learning models and evaluated their performance.
 
-*   Successfully deployed a predictive model using Flask and Docker.
+<!---->
 
-*   Improved understanding of model metrics such as AUCPR, AUC, and F1 Score.
+*   Scripts: Python scripts for automation and reproducibility of the project processes. 
 
-#### Impact
+*   requirements.txt: A file listing all necessary libraries with their specific versions to ensure compatibility.
 
-The final model achieved a high accuracy rate, enabling quicker and more consistent loan approval decisions. This solution effectively reduces the risk of loan defaults and helps financial institutions optimize their loan portfolios.
+##### Impact:
 
-#### Project Repository
+This project explored a different approach to product recommendation by combining graph theory and machine learning. The use of graph embeddings allows for personalized recommendations, leading to better user engagement and potentially higher conversion rates on the platform.
 
-Explore the full implementation, including code, data, and detailed analysis, on GitHub.
-
-[View Project on GitHub](https://github.com/Shola-Ayeotan/Loan-Eligbility)
