@@ -47,6 +47,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Button
+        label: Get started
+        altText: ''
+        url: Learn more about me
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       altText: Oluwanishola Ayeotan
       elementId: ''
