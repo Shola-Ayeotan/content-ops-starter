@@ -195,7 +195,7 @@ sections:
           - pr-16
           - pl-16
           - pb-16
-        alignItems: center
+        alignItems: flex-end
       subtitle:
         textAlign: left
         fontWeight: 700
