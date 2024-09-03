@@ -161,4 +161,5 @@ sections:
 type: PageLayout
 seo:
   type: Seo
+  metaTitle: Shola Ayeotan Projects
 ---
