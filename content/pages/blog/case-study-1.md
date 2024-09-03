@@ -1,5 +1,5 @@
 ---
-title: eCommerce Recommender Engine
+title: 'eCommerce Recommendation System '
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
