@@ -60,9 +60,9 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-24
           - pb-16
-          - pr-16
+          - pr-24
         margin:
           - mr-0
   - type: DividerSection
@@ -182,8 +182,8 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-16
-          - pr-16
-          - pl-16
+          - pr-24
+          - pl-24
           - pb-16
         alignItems: center
       subtitle:
@@ -214,9 +214,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-16
+          - pl-24
           - pb-16
-          - pr-16
+          - pr-24
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
@@ -306,8 +306,16 @@ sections:
       self:
         padding:
           - pt-16
-          - pr-16
+          - pr-24
           - pb-16
-          - pl-16
+          - pl-24
 type: PageLayout
+seo:
+  type: Seo
+  metaTitle: Oluwanishola Ayeotan
+  metaDescription: This is a portfolio of all my published projects
+  addTitleSuffix: false
+  socialImage: /images/Shola a.jpg
+  metaTags:
+    - type: MetaTag
 ---
