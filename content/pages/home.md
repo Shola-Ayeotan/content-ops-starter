@@ -182,7 +182,7 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-16
-          - pr-16
+          - pr-20
           - pl-20
           - pb-16
         alignItems: center
