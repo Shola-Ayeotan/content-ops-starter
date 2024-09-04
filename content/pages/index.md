@@ -315,4 +315,5 @@ seo:
   metaTitle: Shola Ayeotan - Portfolio
   metaDescription: This is a portfolio of all my published projects
   addTitleSuffix: true
+  socialImage: /images/Shola a.jpg
 ---
