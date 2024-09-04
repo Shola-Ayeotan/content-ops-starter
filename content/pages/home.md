@@ -316,4 +316,6 @@ seo:
   metaDescription: This is a portfolio of all my published projects
   addTitleSuffix: false
   socialImage: /images/Shola a.jpg
+  metaTags:
+    - type: MetaTag
 ---
