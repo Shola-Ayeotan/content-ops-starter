@@ -310,4 +310,6 @@ sections:
           - pb-16
           - pl-16
 type: PageLayout
+seo:
+  type: Seo
 ---
