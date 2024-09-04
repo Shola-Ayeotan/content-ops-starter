@@ -62,7 +62,7 @@ sections:
           - pt-16
           - pl-20
           - pb-16
-          - pr-16
+          - pr-20
         margin:
           - mr-0
   - type: DividerSection
