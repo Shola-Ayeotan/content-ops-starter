@@ -33,7 +33,7 @@
             "type": "Link",
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/home",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
