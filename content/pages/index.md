@@ -309,10 +309,11 @@ sections:
           - pr-16
           - pb-16
           - pl-16
-seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
-  type: Seo
 type: PageLayout
+seo:
+  type: Seo
+  metaTitle: Shola Ayeotan - Portfolio
+  metaDescription: This is a portfolio of all my published projects
+  addTitleSuffix: true
+  socialImage: /images/Shola a.jpg
 ---
