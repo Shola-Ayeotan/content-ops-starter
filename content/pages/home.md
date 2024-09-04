@@ -308,7 +308,7 @@ sections:
           - pt-16
           - pr-16
           - pb-16
-          - pl-16
+          - pl-24
 type: PageLayout
 seo:
   type: Seo
