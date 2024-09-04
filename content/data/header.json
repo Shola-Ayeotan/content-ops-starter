@@ -21,15 +21,6 @@
             "type": "Link"
         },
         {
-            "label": "Experience",
-            "altText": "Experience",
-            "url": "/experience",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Projects",
             "altText": "Projects",
             "url": "/projects",
@@ -42,7 +33,7 @@
             "type": "Link",
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/home",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
