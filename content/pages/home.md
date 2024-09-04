@@ -314,5 +314,5 @@ seo:
   type: Seo
   metaTitle: Shola Ayeotan
   metaDescription: This is a portfolio of some of my published projects.
-  addTitleSuffix: true
+  addTitleSuffix: false
 ---
