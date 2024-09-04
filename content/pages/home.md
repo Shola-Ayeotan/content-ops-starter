@@ -310,10 +310,4 @@ sections:
           - pb-16
           - pl-16
 type: PageLayout
-seo:
-  type: Seo
-  metaTitle: Shola Ayeotan
-  metaDescription: This is a portfolio of some of my published projects.
-  addTitleSuffix: false
-  socialImage: /images/Shola a.jpg
 ---
