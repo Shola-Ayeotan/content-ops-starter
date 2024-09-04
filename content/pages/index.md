@@ -312,6 +312,6 @@ sections:
 type: PageLayout
 seo:
   type: Seo
-  metaTitle: Shola Ayeotan
+  metaTitle: Shola Ayeotan - Portfolio
   metaDescription: This is a portfolio of all my published projects
 ---
