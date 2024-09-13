@@ -203,7 +203,7 @@ sections:
     type: DividerSection
   - posts:
       - content/pages/blog/ecommerce.md
-      - content/pages/blog/case-study-2.md
+      - content/pages/blog/speech-emotion-recognition.md
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
