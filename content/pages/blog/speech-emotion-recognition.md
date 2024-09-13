@@ -86,7 +86,7 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-In this project, I developed a Speech Emotion Recognition (SER) system that uses machine learning to identify human emotions from speech. Emotions such as happiness, sadness, anger, and calmness are essential for communication, and this project explores how to automate the process of detecting emotions from audio data.
+In this project, I developed a Speech Emotion Recognition (SER) model that uses machine learning to identify human emotions from speech. Emotions such as happiness, sadness, anger, and calmness are essential for communication, and this project explores how to automate the process of detecting emotions from audio data.
 
 #### Objective
 
@@ -127,6 +127,20 @@ The project uses the following tech stack:
 *   Data Handling: Pandas, Numpy, Matplotlib
 
 #### Implementation Process:
+
+##### Exploratory Data Analysis (EDA)
+
+Before building models, I conducted **Exploratory Data Analysis (EDA)** to understand the structure and distribution of the audio data. Several visualizations were generated to explore the audio features extracted from the dataset.
+
+**Waveforms**: Plots of raw audio waveforms for each emotion were generated to understand the differences in speech patterns across emotions. Emotions like **anger** showed a more pronounced amplitude in the waveform, with frequent peaks and high energy, while **calm** and **neutral** emotions exhibited smoother, less dynamic waveforms.![](/images/Waveform.png)![](/images/Waveform%20Segment.png)
+
+**Spectrograms**: Spectrograms were created to visualize how the frequencies in the speech signals changed over time. Emotions like **fear** and **disgust** displayed distinct patterns in the frequency domain, with more concentrated energy in certain frequency bands.![](/images/Mel%20Spectogram.png)![](/images/Mean%20Mel%20Spectogram%20accross%20frequency.png)****
+
+**MFCC Distribution**: The distribution of **MFCC** values across different emotions was plotted. MFCC captures the overall spectral envelope and provides crucial information about how speech characteristics vary across emotions. Emotions like **happiness** and **surprise** exhibited higher variance in their MFCC values, while emotions like **sadness** and **neutral** had more stable distributions. This reflects the more dynamic nature of speech associated with positive emotions compared to more subdued emotions like sadness.![](/images/MFCCs.png)****
+
+**Chroma Spectogram**: Chroma features, which represent the pitch class (musical notes), were visualized for various emotions. These plots demonstrated differences in pitch class usage across emotions, with some emotions utilizing a wider range of pitch classes than others.
+
+![](/images/Chroma%20Spectogram.png)![](/images/Mean%20Chroma%20Spectogram%20accross%20frequency.png)
 
 ##### Feature Extraction
 
