@@ -60,9 +60,9 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-24
+          - pl-16
           - pb-16
-          - pr-24
+          - pr-16
         margin:
           - mr-0
   - type: DividerSection
@@ -182,8 +182,8 @@ sections:
         justifyContent: flex-start
         padding:
           - pt-16
-          - pr-24
-          - pl-24
+          - pr-16
+          - pl-16
           - pb-16
         alignItems: center
       subtitle:
@@ -214,9 +214,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pl-24
+          - pl-16
           - pb-16
-          - pr-24
+          - pr-16
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
@@ -306,9 +306,9 @@ sections:
       self:
         padding:
           - pt-16
-          - pr-24
+          - pr-16
           - pb-16
-          - pl-24
+          - pl-16
 type: PageLayout
 seo:
   type: Seo
