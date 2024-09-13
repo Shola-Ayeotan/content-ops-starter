@@ -306,7 +306,7 @@ sections:
       self:
         padding:
           - pt-16
-          - pr-24
+          - pr-16
           - pb-16
           - pl-24
 type: PageLayout
