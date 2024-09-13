@@ -3,10 +3,10 @@ type: PostLayout
 title: Speech Emotion Recognition (SER)
 date: '2024-08-22'
 excerpt: >-
-  This project implemented a statistical model to ascertain loan eligibility for
-  individuals applying for loans. Using a comprehensive dataset of over 100,000
-  loan records, a model was developed to assess diverse factors and determine
-  the likelihood of loan repayment.
+  This project focuses on Speech Emotion Recognition, where the goal was to
+  identify human emotions from audio recordings. The project uses Python, Keras,
+  TensorFlow, and Scikit-learn to train models that predict emotions such as
+  happiness, sadness, anger, and calmness from audio inputs.
 featuredImage:
   type: ImageBlock
   url: /images/Loan.png
