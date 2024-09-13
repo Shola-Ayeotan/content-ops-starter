@@ -32,7 +32,7 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "View Portfolio",
             "altText": "",
             "url": "https://github.com/Shola-Ayeotan",
             "showIcon": false,
