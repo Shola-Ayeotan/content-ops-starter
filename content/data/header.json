@@ -33,5 +33,16 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": ""
+    "title": "",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/logo-dark.svg",
+        "altText": "Logo",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
