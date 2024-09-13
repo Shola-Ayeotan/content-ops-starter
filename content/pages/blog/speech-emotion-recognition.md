@@ -38,7 +38,7 @@ bottomSections:
           - type: Button
             label: View Project on Github
             altText: ''
-            url: 'https://github.com/Shola-Ayeotan/Loan-Eligbility'
+            url: 'https://github.com/Shola-Ayeotan/Speech-Emotion-Recognition'
             showIcon: false
             icon: arrowRight
             iconPosition: right
