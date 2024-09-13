@@ -3,9 +3,9 @@ type: PostLayout
 title: eCommerce Recommendation System
 date: '2023-10-24'
 excerpt: >-
-  This project developed a recommendation system for an eCommerce platform using
-  a Graph-based approach to recommend products based on user purchases and
-  search history. 
+  I developed a recommendation system for an eCommerce platform using a
+  Graph-based approach to recommend products based on user purchases and search
+  history. 
 featuredImage:
   type: ImageBlock
   url: /images/Ecommerce.webp
