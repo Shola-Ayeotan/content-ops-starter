@@ -9,7 +9,7 @@ excerpt: >-
   happiness, sadness, anger, and calmness from audio inputs.
 featuredImage:
   type: ImageBlock
-  url: /images/Loan.png
+  url: /images/speech-emotion-recognition.webp
   altText: Case study 3
   styles:
     self:
