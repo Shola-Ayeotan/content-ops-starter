@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Loan Eligibility using H20.ai and Deep Learning
+title: Speech Emotion Recognition (SER)
 date: '2023-07-15'
 excerpt: >-
   This project implemented a statistical model to ascertain loan eligibility for
