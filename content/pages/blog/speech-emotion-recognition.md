@@ -71,7 +71,7 @@ bottomSections:
         textAlign: center
 slug: speech-emotion-recognition
 isFeatured: true
-colors: bg-neutralAlt-fg-dark
+colors: bg-light-fg-dark
 styles:
   self:
     padding:
