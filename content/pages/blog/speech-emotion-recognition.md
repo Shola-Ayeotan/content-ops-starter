@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Speech Emotion Recognition (SER)
-date: '2023-12-15'
+date: '2024-04-15'
 excerpt: >-
   This project implemented a statistical model to ascertain loan eligibility for
   individuals applying for loans. Using a comprehensive dataset of over 100,000
