@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/speech-emotion-recognition.webp
-  altText: Case study 3
+  altText: Speech Emotion Recognition
   styles:
     self:
       borderRadius: x-large
