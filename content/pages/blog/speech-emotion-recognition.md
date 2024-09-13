@@ -3,10 +3,8 @@ type: PostLayout
 title: Speech Emotion Recognition (SER)
 date: '2024-08-22'
 excerpt: >-
-  This project focuses on Speech Emotion Recognition, where the goal was to
-  identify human emotions from audio recordings. The project uses Python, Keras,
-  TensorFlow, and Scikit-learn to train models that predict emotions such as
-  happiness, sadness, anger, and calmness from audio inputs.
+  In this project, I developed a Speech Emotion Recognition (SER) model that
+  uses machine learning to identify human emotions from speech.
 featuredImage:
   type: ImageBlock
   url: /images/speech-emotion-recognition.webp
