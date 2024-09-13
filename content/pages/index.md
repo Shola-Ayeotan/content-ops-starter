@@ -216,7 +216,7 @@ sections:
           - pt-16
           - pl-24
           - pb-16
-          - pr-24
+          - pr-16
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: shadow-plus-move-up
