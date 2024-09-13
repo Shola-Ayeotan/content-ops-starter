@@ -3,9 +3,9 @@ title: Loan Eligibility using H20.ai and Deep Learning
 slug: case-study-3
 date: '2023-07-15'
 excerpt: >-
-  This project implemented a statistical model to ascertain loan eligibility for
+  I implemented a statistical model to ascertain loan eligibility for
   individuals applying for loans. Using a comprehensive dataset of over 100,000
-  loan records, a model was developed to assess diverse factors and determine
+  loan records, the model was developed to assess diverse factors and determine
   the likelihood of loan repayment.
 featuredImage:
   url: /images/Loan.png
