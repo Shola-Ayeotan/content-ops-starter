@@ -86,11 +86,19 @@ styles:
     borderRadius: none
     flexDirection: col
 ---
-This project uses H2O.ai to build a machine-learning model that helps financial institutions decide who gets a loan. By analyzing applicant information like income and credit score, the model predicts loan eligibility, streamlining the approval process.
+In this project, I developed a Speech Emotion Recognition (SER) system that uses machine learning to identify human emotions from speech. Emotions such as happiness, sadness, anger, and calmness are essential for communication, and this project explores how to automate the process of detecting emotions from audio data.
 
 #### Objective
 
-The primary goal was to create an efficient and accurate model to predict whether an applicant is eligible for a loan based on their demographic and financial information. This approach reduces the manual effort involved in loan processing and enhances the consistency of approval decisions.
+The primary goal was to create a model that could predict the emotion in a given speech audio file.
+
+**The project involved:**
+
+*   Feature Extraction from audio signals using advanced signal processing techniques.
+
+*   Model Training with both deep learning and traditional machine learning approaches.
+
+*   Deployment of a Flask API for real-time emotion classification.
 
 #### Tech Stack
 
@@ -102,59 +110,75 @@ The primary goal was to create an efficient and accurate model to predict whethe
 
 #### Dataset Description
 
-The dataset used for this project is an anonymized, synthetic dataset designed to mirror real-world loan data. It contains over 100,000 records, each with detailed information about the customer's financial history and loan application.
+I used the[ RAVDESS dataset](https://zenodo.org/records/1188976) (Ryerson Audio-Visual Database of Emotional Speech and Song), which includes speech files from actors portraying different emotions.
 
-#### Approach:
+The dataset contains 7356 files, with emotions: *Neutral, Calm, Happy, Sad, Angry, Fearful, Disgust, and Surprised.* The speech data provided a rich source for training the models, with actors delivering speech in a controlled setting for each emotion.
 
-1.  Exploratory Data Analysis (EDA):
+#### Technologies Used
 
-*   Missing data analysis and imputation.
+The project uses the following tech stack:
 
-*   Removal of irrelevant features.
+*   Programming Language: Python,
 
-*   Visualization of feature distributions.
+*   Machine Learning: TensorFlow, Keras, Scikit-learn
 
-2\. Data Pre-processing:
+*   Audio Processing: Librosa, SoundFile
 
-*   Handling of outliers.
+*   Data Handling: Pandas, Numpy, Matplotlib
 
-*   Categorical data encoding using One-Hot and Label Encoding.
+#### Implementation Process:
 
-3\. Feature Engineering:
+##### Feature Extraction
 
-*   Creation of non-linear combinations of features.
+Using the *librosa* library, I extracted several key features from the audio files:
 
-*   Addition of derived features based on existing data.
+*   **MFCC (Mel Frequency Cepstral Coefficients)**: Captures the timbre of the audio, making it a crucial feature for speech processing.
 
-*   Applied Standard Scaler to normalize the data.
+*   **Chroma Feature**: Indicates the pitch class, useful for identifying the tone of speech.
 
-4\. Modeling:
+*   **Zero-Crossing Rate**: Measures how frequently the signal changes sign, giving insight into the energy and sharpness of the speech.
 
-*   Implemented various machine learning models including Random Forest, Gradient Boosting, XGBoost, and Neural Networks.
+*   **Mel Spectrogram**: Visualizes the power of frequencies over time, providing a broader context of the audio signal.
 
-*   Models were evaluated using metrics like Precision, Recall, AUC, and F1 Score.
+##### Model Building
 
-5\. Hyperparameter Tuning:
+I implemented two different modelling approaches:
 
-*   Used GridSearchCV to optimize model performance.
+1.  **Artificial Neural Network (ANN)** using **Keras** and **TensorFlow**.
 
-6\. Model Deployment:
+    *   A deep learning approach with multiple dense layers.
 
-*   Deployed the final model using Flask, encapsulated in a Docker container for easy scalability and deployment.
+    *   Trained to classify emotions using softmax output.
 
-#### Project Takeaways
+2.  **MLPClassifier** from **Scikit-learn**.
 
-*   Mastered EDA techniques for complex datasets.
+    *   A traditional machine learning approach with multiple hidden layers.
 
-*   Gained expertise in data cleaning, feature engineering, and data standardization.
+    *   Tuned hyperparameters to optimize performance.
 
-*   Developed multiple machine learning models and evaluated their performance.
+##### Model Evaluation
 
-*   Successfully deployed a predictive model using Flask and Docker.
+Both models were trained on a **70:30 train-test split**. I evaluated them using metrics such as **accuracy** and **confusion matrix**. The final model achieved over **80% accuracy**, making it effective at distinguishing between various emotions.
 
-*   Improved understanding of model metrics such as AUCPR, AUC, and F1 Score.
+#### Deployment
 
-#### Impact
+To make the model accessible, I deployed the system as a **Flask API**. This allows users to upload an audio file and receive a real-time emotion prediction. The API is containerized using Docker, enabling easy deployment to platforms like **Heroku** or **AWS**.
 
-The final model achieved a high accuracy rate, enabling quicker and more consistent loan approval decisions. This solution effectively reduces the risk of loan defaults and helps financial institutions optimize their loan portfolios.
+Key features of the Flask app:
+
+*   **/predict endpoint**: Accepts audio files and returns an emotion classification.
+
+*   **Real-time interaction**: Users can upload an audio file via a web interface or API call to get instant feedback on the detected emotion.
+
+#### Results
+
+The project successfully implemented a model capable of classifying emotions from speech with high accuracy. By combining advanced audio feature extraction techniques with machine learning, the model can distinguish between multiple emotions with real-time predictions via an API.
+
+#### Future Work
+
+The next steps for this project include:
+
+*   **Improving the model’s accuracy** by incorporating more sophisticated neural network architectures like **RNNs** (Recurrent Neural Networks) or **CNNs** (Convolutional Neural Networks).
+
+*   **Expanding the dataset** to include more varied speech data to make the model more robust across different speakers and environments.
 
