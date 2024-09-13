@@ -37,7 +37,7 @@
     "logo": {
         "type": "ImageBlock",
         "url": "/images/logo-dark.svg",
-        "altText": "Image alt text placeholder",
+        "altText": "Logo",
         "elementId": "",
         "styles": {
             "self": {
