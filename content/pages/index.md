@@ -31,14 +31,6 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
-      - type: Link
-        altText: Instagram
-        url: 'https://www.instagram.com/theoluwanishola'
-        showIcon: true
-        icon: instagram
-        iconPosition: right
-        style: secondary
-        elementId: ''
     media:
       altText: Oluwanishola Ayeotan
       elementId: ''
