@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to my portfolio!
+      text: Welcome to my portfolio.
       color: text-dark
       type: TitleBlock
     subtitle: ''
@@ -35,7 +35,7 @@ sections:
       altText: Oluwanishola Ayeotan
       elementId: ''
       type: ImageBlock
-      url: /images/7.png
+      url: /images/2 (4).png
     elementId: ''
     colors: bg-light-fg-dark
     styles:
